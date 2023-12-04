@@ -1,5 +1,5 @@
 # 💫 About Me:
-❓ Hi! I'm Kristian, but you can call me Kris. I'm a Developer and a gamer<br>When I will be an adult I want to be a Software Developer<br>💻 Learning:<br>  ☕ Java (for Paper API mostly) and JavaFX)<br>  💻 Web development (HTML5, CSS3, JavaScript)<br>  📷 Graphic design (Adobe Illustrator and After Effects)<br>  🐍 Python for Data Management<br>  🖥️ Other frameworks (Node.JS, React, Flask, .NET etc.)<br>  📱 Contacts: Discord: @ksnq. | Telegram: @StillKsnq
+❓ Hi! I'm Kristian, but you can call me Kris. I'm a Developer and a gamer<br>When I will be an adult I want to be a Software Developer<br>💻 Learning:<br>  ☕ Java (for Paper API mostly) and JavaFX)<br>  💻 Web development (HTML5, CSS3, JavaScript)<br>  📷 Graphic design (Adobe Illustrator and After Effects)<br>  🐍 Python for Data Management<br>  🖥️ Other frameworks (Node.JS, React, Flask, .NET etc.)<br>  
 
 
 # 💻 Tech Stack:
